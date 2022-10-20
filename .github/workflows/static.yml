@@ -1,0 +1,31 @@
+name: deploy-book
+
+on:
+  push:
+    branches:
+    - master
+    
+jobs:
+  deploy-book:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up python
+      uses: actions/setup-python@v1
+      with: 
+        python-version: 3.7
+        
+    - name: Install requirements
+      run: |
+        pip install -r requirements.txt
+        
+    - name: Build book
+      run: |
+        jupyter-book build .
+        
+    - name: Github pages action
+      uses: peaceiris/actions-gh-pages@v3.5.9
+      with: 
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_build/html
