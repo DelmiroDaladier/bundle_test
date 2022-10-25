@@ -6,10 +6,12 @@
     Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotlight presentation at NIPS'15, has clocked up 200+ citations on Google Scholar in six years, comes with code (Python/R/Matlab), video, poster and slides.
 #### author:
     cspaf
-#### Hero-image:
-    ![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-    http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg
-    
+#### Hero-image:  
+    ```{figure} http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg
+    :name: PGRcurves
+
+    caption
+    ```
 
 #### paper-authors:
     - Peter A. Flach
