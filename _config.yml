@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Research Bundle
-author: Delmiro Daladier Sampaio Neto
+author: Delmiro Daladier Sampaio
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
