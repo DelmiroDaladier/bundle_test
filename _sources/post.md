@@ -7,13 +7,16 @@
 #### author:
     cspaf
 #### Hero-image:
+    ![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
     http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg
+    
 
 #### paper-authors:
-    Peter A. Flach and Meelis Kull
+    - Peter A. Flach
+    - Meelis Kull
 
 #### venue:
-    NIPS 2015
+    - NIPS 2015
 #### venue-url:
     http://papers.nips.cc/paper/5867-precision-recall-gain-curves-pr-analysis-done-right
 
