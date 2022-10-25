@@ -3,6 +3,6 @@
 {"filename": "notebooks.ipynb", "lineno": 10032, "status": "working", "code": 0, "uri": "https://myst-parser.readthedocs.io/en/latest/", "info": ""}
 {"filename": "notebooks.ipynb", "lineno": 10011, "status": "working", "code": 0, "uri": "https://myst-parser.readthedocs.io/en/latest/_static/logo-wide.svg", "info": ""}
 {"filename": "markdown-notebooks.md", "lineno": 18, "status": "redirected", "code": 302, "uri": "https://jupyterbook.org/file-types/myst-notebooks.html", "info": "https://jupyterbook.org/en/stable/file-types/myst-notebooks.html"}
-{"filename": "markdown-notebooks.md", "lineno": 1, "status": "redirected", "code": 302, "uri": "https://jupyterbook.org/file-types/jupytext.html", "info": "https://jupyterbook.org/en/stable/file-types/jupytext.html"}
 {"filename": "markdown.md", "lineno": 15, "status": "redirected", "code": 302, "uri": "https://jupyterbook.org/content/myst.html", "info": "https://jupyterbook.org/en/stable/content/myst.html"}
+{"filename": "markdown-notebooks.md", "lineno": 1, "status": "redirected", "code": 302, "uri": "https://jupyterbook.org/file-types/jupytext.html", "info": "https://jupyterbook.org/en/stable/file-types/jupytext.html"}
 {"filename": "intro.md", "lineno": 3, "status": "redirected", "code": 302, "uri": "https://jupyterbook.org", "info": "https://jupyterbook.org/en/stable/"}

@@ -1,4 +1,4 @@
 markdown-notebooks.md:18: [redirected with Found] https://jupyterbook.org/file-types/myst-notebooks.html to https://jupyterbook.org/en/stable/file-types/myst-notebooks.html
-markdown-notebooks.md:1: [redirected with Found] https://jupyterbook.org/file-types/jupytext.html to https://jupyterbook.org/en/stable/file-types/jupytext.html
 markdown.md:15: [redirected with Found] https://jupyterbook.org/content/myst.html to https://jupyterbook.org/en/stable/content/myst.html
+markdown-notebooks.md:1: [redirected with Found] https://jupyterbook.org/file-types/jupytext.html to https://jupyterbook.org/en/stable/file-types/jupytext.html
 intro.md:3: [redirected with Found] https://jupyterbook.org to https://jupyterbook.org/en/stable/
