@@ -22,10 +22,11 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-    # Build the book
-    - name: Build the book
-      run: |
-        jupyter-book build -nW .
+    - name: Build the book 
+      run: jb build -nW .
+    - name: Validate links 
+      continue-on-error: true
+      run: jb build -q --builder linkcheck .
     - name: Deploy
       if: github.ref == 'refs/heads/main'
       uses: JamesIves/github-pages-deploy-action@3.7.1
