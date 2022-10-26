@@ -28,12 +28,14 @@ http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_supplementary.pdf
 ## scholar
 https://scholar.google.com/citations?user=o9ggd4sAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3Do9ggd4sAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3Do9ggd4sAAAAJ%3ARc-B-9qnGaUC%26tzom%3D-60
 
-## video   http://people.cs.bris.ac.uk/~flach/PRGcurves/259653_clipped.mp4
+## video   
+http://people.cs.bris.ac.uk/~flach/PRGcurves/259653_clipped.mp4
+
 ## poster
-   http://people.cs.bris.ac.uk/~flach/PRGcurves/2015_12_07_nips_prg_poster.pdf
+http://people.cs.bris.ac.uk/~flach/PRGcurves/2015_12_07_nips_prg_poster.pdf
 
 ## slides
-   http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_ISL.pdf
+http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_ISL.pdf
 
 ## code
 https://github.com/meeliskull/prg
