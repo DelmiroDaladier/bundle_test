@@ -1,9 +1,20 @@
 # Precision-Recall-Gain Curves: PR Analysis Done Right #
 
-## tldr ## 
-    Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotlight presentation at NIPS'15, has clocked up 200+ citations on Google Scholar in six years, comes with code (Python/R/Matlab), video, poster and slides.
-## author ##
-    cspaf
+# Welcome to your Jupyter Book
+
+This is a small sample book to give you a feel for how book content is
+structured.
+It shows off a few of the major file types, as well as some sample content.
+It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+
+Check out the content pages bundled with this sample book to see more.
+
+## tldr 
+
+Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotlight presentation at NIPS'15, has clocked up 200+ citations on Google Scholar in six years, comes with code (Python/R/Matlab), video, poster and slides.
+    
+## author 
+cspaf
 ## Hero-image  
     ```{figure} http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg
     :name: PGRcurves
