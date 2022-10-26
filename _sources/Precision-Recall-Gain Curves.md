@@ -1,5 +1,4 @@
 # Precision-Recall-Gain Curves: PR Analysis Done Right
-# Intro
 
 ## title 
     Precision-Recall-Gain Curves: PR Analysis Done Right
