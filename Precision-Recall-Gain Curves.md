@@ -35,8 +35,14 @@ https://github.com/meeliskull/prg
 ROC
 
 ## tags
+
+![Generic badge](https://img.shields.io/badge/Fscore-blue.svg)
+![Generic badge](https://img.shields.io/badge/Precision_recall-blue.svg)
+
+
 Fscore, Precision-Recall
 
+## Read
 [![PDF](https://img.shields.io/badge/read-PDF-green.svg)](https://research-information.bris.ac.uk/ws/portalfiles/portal/72164009/5867_precision_recall_gain_curves_pr_analysis_done_right.pdf)
 
 
