@@ -1,1 +1,2 @@
-Precision-Recall-Gain Curves.md:5: [redirected with Found] https://jupyterbook.org to https://jupyterbook.org/en/stable/
+Precision-Recall-Gain Curves.md:21: [redirected with Found] http://papers.nips.cc/paper/5867-precision-recall-gain-curves-pr-analysis-done-right to https://proceedings.neurips.cc/paper/2015/hash/33e8075e9970de0cfea955afd4644bb2-Abstract.html
+intro.md:3: [redirected with Found] https://jupyterbook.org to https://jupyterbook.org/en/stable/
