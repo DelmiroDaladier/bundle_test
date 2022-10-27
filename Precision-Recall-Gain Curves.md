@@ -1,14 +1,13 @@
 # Precision-Recall-Gain Curves: PR Analysis Done Right #
 
 
+
 ## tldr 
 
 Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotlight presentation at NIPS'15, has clocked up 200+ citations on Google Scholar in six years, comes with code (Python/R/Matlab), video, poster and slides.
     
 ## Author 
 cspaf
-
-
 
 ## Paper-authors
 - Peter A. Flach
@@ -31,24 +30,24 @@ http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_ISL.pdf
 ## Code
 https://github.com/meeliskull/prg
 
-## Hero-image  
-```{dropdown} Image
+## Image  
+```{dropdown}
 ![hero-image](http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg)
 ```
 
+## More Resources
+
+[![PDF](https://img.shields.io/badge/read-PDF-green.svg)](https://research-information.bris.ac.uk/ws/portalfiles/portal/72164009/5867_precision_recall_gain_curves_pr_analysis_done_right.pdf)
+
+[![Generic badge](https://img.shields.io/badge/View-Poster-green.svg)](http://people.cs.bris.ac.uk/~flach/PRGcurves/2015_12_07_nips_prg_poster.pdf)
+
+[![Generic badge](https://img.shields.io/badge/Read-Supplement-green.svg)](http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_supplementary.pdf)
+
 ## Theme
+
 ROC
 
 ## Tags
 
 ![Generic badge](https://img.shields.io/badge/Fscore-blue.svg)
 ![Generic badge](https://img.shields.io/badge/Precision_recall-blue.svg)
-
-## More Resources
-
-[![PDF](https://img.shields.io/badge/read-PDF-green.svg)](https://research-information.bris.ac.uk/ws/portalfiles/portal/72164009/5867_precision_recall_gain_curves_pr_analysis_done_right.pdf)
-
-
-[![Generic badge](https://img.shields.io/badge/Read-Supplement-green.svg)](http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_supplementary.pdf)
-
-[![Generic badge](https://img.shields.io/badge/View-Poster-green.svg)](http://people.cs.bris.ac.uk/~flach/PRGcurves/2015_12_07_nips_prg_poster.pdf)
