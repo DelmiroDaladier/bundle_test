@@ -39,7 +39,7 @@ ROC
 
 
 ![Generic badge](https://img.shields.io/badge/NLP.svg)
-![Generic badge](https://img.shields.io/badge/machine translation.svg)
+![Generic badge](https://img.shields.io/badge/machine-translation.svg)
 
 ## More Resources
 
