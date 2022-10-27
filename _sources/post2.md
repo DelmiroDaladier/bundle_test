@@ -38,7 +38,7 @@ ROC
 ## tags
 
 
-![Generic badge](https://img.shields.io/badge/NLP.svg)
+![Generic badge](https://img.shields.io/badge/nlp.svg)
 
 ## More Resources
 
