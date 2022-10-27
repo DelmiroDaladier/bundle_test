@@ -1,4 +1,4 @@
-# Precision-Recall-Gain Curves: PR Analysis Done Right #
+# Post 2 #
 
 
 ## tldr 
@@ -38,8 +38,8 @@ ROC
 ## tags
 
 
-![Generic badge](https://img.shields.io/badge/Fscore-blue.svg)
-![Generic badge](https://img.shields.io/badge/Precision_recall-blue.svg)
+![Generic badge](https://img.shields.io/badge/NLP.svg)
+![Generic badge](https://img.shields.io/badge/machine translation.svg)
 
 ## More Resources
 
