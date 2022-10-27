@@ -37,9 +37,6 @@ ROC
 
 ## tags
 
-[Fscore](genindex)
-
-[Precision-Recall](genindex)
 
 ![Generic badge](https://img.shields.io/badge/Fscore-blue.svg)
 ![Generic badge](https://img.shields.io/badge/Precision_recall-blue.svg)
