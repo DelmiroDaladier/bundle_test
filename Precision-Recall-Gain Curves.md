@@ -9,6 +9,10 @@ Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotli
 ## Author 
 cspaf
 
+## Image  
+
+![hero-image](http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg)
+
 ## Paper-authors
 - Peter A. Flach
 - Meelis Kull
@@ -27,10 +31,7 @@ http://people.cs.bris.ac.uk/~flach/PRGcurves/PRcurves_ISL.pdf
 ## Code
 https://github.com/meeliskull/prg
 
-## Image  
-```{dropdown}
-![hero-image](http://people.cs.bris.ac.uk/~flach/PRGcurves/curves.jpg)
-```
+
 ## Theme
 
 ROC
