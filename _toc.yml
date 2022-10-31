@@ -3,7 +3,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: Precision-Recall-Gain Curves
+- file: content/Precision-Recall-Gain Curves
   title: Precision-Recall-Gain Curves - PR Analysis Done Right
-- file: post2
+- file: content/post2
   title: A Second Post
