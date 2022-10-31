@@ -16,9 +16,6 @@ cspaf
 ## Venue
 - [NIPS 2015](http://papers.nips.cc/paper/5867-precision-recall-gain-curves-pr-analysis-done-right)
 
-## Scholar
-https://scholar.google.com/citations?user=o9ggd4sAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3Do9ggd4sAAAAJ%26cstart%3D20%26pagesize%3D80%26citation_for_view%3Do9ggd4sAAAAJ%3ARc-B-9qnGaUC%26tzom%3D-60
-
 ## Video   
 
 http://people.cs.bris.ac.uk/~flach/PRGcurves/259653_clipped.mp4
