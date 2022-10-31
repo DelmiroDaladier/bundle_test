@@ -2,7 +2,7 @@
 
 ## Tldr 
 
-Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotlight presentation at NIPS'15, has clocked up 200+ citations on Google Scholar in six years, comes with code (Python/R/Matlab), video, poster and slides.
+Don't use Precision-Recall curves -- use PRG curves instead! Selected for spotlight presentation at NIPS'15, has clocked up 200+ citations on Google Scholar in six years, comes with code (Python/R/Matlab), video(## Video), poster and slides.
     
 ## Author 
 cspaf
